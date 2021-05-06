@@ -31,7 +31,7 @@ featuretools==0.10.0
 feedparser==5.2.1
 findspark==1.3.0
 Flask==0.10.1
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 fsspec==0.4.1
 future==0.16.0
 gast==0.2.2
