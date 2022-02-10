@@ -21,7 +21,7 @@ dask==1.2.2
 decorator==4.3.2
 defusedxml==0.5.0
 distributed==1.28.0
-Django==2.2
+Django==2.2.27
 docutils==0.14
 docx==0.2.4
 entrypoints==0.3
