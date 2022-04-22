@@ -113,7 +113,7 @@ py4j==0.10.7
 Pygments==2.3.1
 pymongo==3.7.2
 pyparsing==2.3.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyspark==2.4.0
 python-dateutil==2.7.5
 python-docx==0.8.10
