@@ -148,7 +148,7 @@ tensorboard==1.14.0
 tensorboardcolab==0.0.22
 tensorflow==1.14.0
 tensorflow-estimator==1.14.0
-tensorflow-gpu==2.0.0a0
+tensorflow-gpu==2.7.2
 tensorflow-hub==0.4.0
 termcolor==1.1.0
 terminado==0.8.1
